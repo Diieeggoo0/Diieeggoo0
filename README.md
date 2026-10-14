@@ -3,10 +3,10 @@
 # ⚡ Diego (@Diieeggoo0)
 ### Founder & Lead Software Engineer at **M3 Tech Studio**
 
-[![FiveM](https://img.shields.io/badge/FiveM-0.00ms_Resmon-10B981?style=for-the-badge&logo=fivem&logoColor=white)](https://forum.cfx.re)
+[![FiveM](https://img.shields.io/badge/FiveM-0.00ms_Resmon-10B981?style=for-the-badge&logo=fivem&logoColor=white)](https://github.com/Diieeggoo0/M3-Standalone-Suite)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/453Jn4QccJ)
 [![Web Store](https://img.shields.io/badge/Store-M3_Tech_Studio-00FFA3?style=for-the-badge&logo=shopify&logoColor=black)](https://m3-designs.mysellauth.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://diego-swart.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://diego-smr.vercel.app/)
 
 <br/>
 
@@ -62,5 +62,5 @@ I am a passionate software engineer, systems architect, and cybersecurity resear
 
 * 🌐 **Web Store:** [m3-designs.mysellauth.com](https://m3-designs.mysellauth.com)
 * 💬 **Discord Community:** [discord.gg/453Jn4QccJ](https://discord.gg/453Jn4QccJ)
-* 💻 **Portfolio:** [diego-swart.vercel.app](https://diego-swart.vercel.app)
+* 💻 **Portfolio:** [diego-smr.vercel.app](https://diego-smr.vercel.app/)
 * 💼 **Discord Handle:** `M3N0R` (`1466909326613413908`)
